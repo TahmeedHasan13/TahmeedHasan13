@@ -7,7 +7,7 @@
   <p></p>
 </div>
 
-
+<hr>
 
 <div align="center" style="width: 100%; max-height: 300px; overflow: hidden; border-radius: 10px;">
   <img src="https://github.com/TahmeedHasan13/TahmeedHasan13/blob/main/banner.gif?raw=true" alt="Banner GIF" width="100%" />
@@ -31,8 +31,7 @@
 </p>
 </div>
 
-<br><br>
-
+<hr>
 
 <div style="padding: 200px 0; margin: 30px 0; display: inline-block; border-top: 2px solid #ccc; border-bottom: 2px solid #ccc;">
   <h3 align="center">🛠️ Tools & Software I Work With</h3>
@@ -47,4 +46,9 @@
     <img src="https://img.icons8.com/fluency/48/orange.png" alt="Orange" title="Orange"/>
   </p>
 </div>
+<br>
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahmeedHasan13&show_icons=true&theme=tokyonight" />
+</p>
 
