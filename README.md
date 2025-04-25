@@ -46,7 +46,6 @@
     <img src="https://img.icons8.com/fluency/48/orange.png" alt="Orange" title="Orange"/>
   </p>
 </div>
-<br>
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TahmeedHasan13&show_icons=true&theme=tokyonight" />
