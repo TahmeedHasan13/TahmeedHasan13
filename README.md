@@ -50,4 +50,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TahmeedHasan13&show_icons=true&theme=tokyonight" />
 </p>
+<hr>
+<p align="center">
+  <a href="https://TahmeedHasan13.github.io/Flappy-Bird-Game/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮%20Play%20Flappy%20Bird-blue?style=for-the-badge" alt="Play Flappy Bird" />
+  </a>
+</p>
 
