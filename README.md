@@ -44,6 +44,8 @@
     <img src="https://img.icons8.com/color/48/final-cut-pro-x.png" alt="Final Cut Pro X" title="Final Cut Pro X"/>
     <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" title="Tableau"/>
     <img src="https://img.icons8.com/fluency/48/orange.png" alt="Orange" title="Orange"/>
+    <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress" title="WordPress"/>
+</p>
   </p>
 </div>
 <hr>
